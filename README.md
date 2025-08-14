@@ -1,9 +1,6 @@
 import telebot
 from telebot import types
 
-BOT_TOKEN = "8224242377:AAFWlxblSYycLC1K9fXGXKOQkjWU5w9QKec"
-bot = telebot.TeleBot(BOT_TOKEN)
-
 tasks = {}
 notes = {}
 expenses = {}
